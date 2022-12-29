@@ -1,6 +1,6 @@
 # ***Иван Королев***
 
-![Фото профиля](https://drive.google.com/file/d/1z_v2P-HnDcuFy31ww6oGg4JMLRxQ0Eu2/view?usp=sharing)
+![Фото профиля](https://github.com/IvanKorolev13/Portfolio/blob/for-site/%D0%98%D0%B2%D0%B0%D0%BD.jpg)
 
 ## **Опыт работы** ![work](https://github.com/IvanKorolev13/Portfolio/blob/for-site/brain.png)
 
@@ -28,7 +28,7 @@
 #### Достижение и навыки
   - Добился развития от рядового сотрудника до ассистента директора за 3 года
 
-## **Образование** ![learning](https://drive.google.com/file/d/1wdvDTkLIIMAv-6K_e3XUhEDn1AD3ezcE/view?usp=sharing)
+## **Образование** ![learning](https://github.com/IvanKorolev13/Portfolio/blob/for-site/learning.png)
 
   - МАИ, Факультет- Радиоэлектроника летательных аппартатов, Специальность- Инженер радиоэлектронной борьбы (1997-2001)
   - Курс Нитологии "Тестировщик ПО"
@@ -37,7 +37,7 @@
   - Семинар "Правовые основы деятельности правоохранительных, надорных и контрольных органов"
   - Семинар "Системы оптимизации управления продажами в ресторане" (Michael T. Claud)
 
-## **Портфолио** ![link](https://github.com/IvanKorolev13/Portfolio/blob/for-site/learning.png)
+## **Портфолио** ![link](https://github.com/IvanKorolev13/Portfolio/blob/for-site/link.png)
 
 [Учебные программы](https://github.com/IvanKorolev13/git-2-homeworks-revert--my_vers.git)
 
