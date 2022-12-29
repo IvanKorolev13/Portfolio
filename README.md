@@ -2,7 +2,7 @@
 
 ![Фото профиля](https://drive.google.com/file/d/1z_v2P-HnDcuFy31ww6oGg4JMLRxQ0Eu2/view?usp=sharing)
 
-## **Опыт работы** ![work](https://drive.google.com/file/d/151tTo9GtzMz9O_9aeGVUoxgIwsVWnK0c/view?usp=share_link)
+## **Опыт работы** ![work](https://github.com/IvanKorolev13/Portfolio/blob/for-site/brain.png)
 
 ### 1. Старший территориальный управляющий (12.2012- 09.2022)
 
@@ -37,19 +37,19 @@
   - Семинар "Правовые основы деятельности правоохранительных, надорных и контрольных органов"
   - Семинар "Системы оптимизации управления продажами в ресторане" (Michael T. Claud)
 
-## **Портфолио** ![link](https://drive.google.com/file/d/1QoFmPBQ-umPYVWwg4o9S9kRPinO6RZOo/view?usp=sharing)
+## **Портфолио** ![link](https://github.com/IvanKorolev13/Portfolio/blob/for-site/learning.png)
 
 [Учебные программы](https://github.com/IvanKorolev13/git-2-homeworks-revert--my_vers.git)
 
 [Профиль в GitHub](https://github.com/IvanKorolev13)
 
-## **Цели и о себе** ![about me](https://drive.google.com/file/d/11PXloi0hOeoR94oVkRTso4Ke2vvBRbyF/view?usp=sharing)
+## **Цели и о себе** ![about me](https://github.com/IvanKorolev13/Portfolio/blob/for-site/indification.png)
 
   - Найти динамичную работу с возможностью горизонтального и вертикального развития
   - Путешествую по разным странам, чтобы получить новые эмоции и сравнить жизнь там и что можно применить в своей жизни (погружаюсь в среду, чтобы прочувствовать местный быт). []()
 
 ## **Контактная информация**
 
-  - ![tel](https://drive.google.com/file/d/1_QMkK06bx0rJUr4pg8gTJFJK-mOwps36/view?usp=sharing)   +7-926-572-64-99
-  - ![email](https://drive.google.com/file/d/1qweq9WF_qFJ81yNBr1iqs0SkcB5DvnSi/view?usp=sharing)   ikorolev13@mail.ru
-  - ![addess](https://drive.google.com/file/d/1z3GwnvjXjXaB4bLm0EI9uqqaKZbhgCR1/view?usp=sharing)   Москва, ул. Лухмановская
+  - ![tel](https://github.com/IvanKorolev13/Portfolio/blob/for-site/telefone.png)   +7-926-572-64-99
+  - ![email](https://github.com/IvanKorolev13/Portfolio/blob/for-site/email.png)   ikorolev13@mail.ru
+  - ![addess](https://github.com/IvanKorolev13/Portfolio/blob/for-site/building.png)   Москва, ул. Лухмановская
