@@ -1,8 +1,8 @@
 # ***Иван Королев***
 
-![Фото профиля](https://github.com/IvanKorolev13/Portfolio/blob/for-site/%D0%98%D0%B2%D0%B0%D0%BD.jpg)
+![Фото профиля](%D0%98%D0%B2%D0%B0%D0%BD.jpg)
 
-## **Опыт работы** ![work](https://github.com/IvanKorolev13/Portfolio/blob/for-site/brain.png)
+## **Опыт работы** ![work](brain.png)
 
 ### 1. Старший территориальный управляющий (12.2012- 09.2022)
 
@@ -28,7 +28,7 @@
 #### Достижение и навыки
   - Добился развития от рядового сотрудника до ассистента директора за 3 года
 
-## **Образование** ![learning](https://github.com/IvanKorolev13/Portfolio/blob/for-site/learning.png)
+## **Образование** ![learning](learning.png)
 
   - МАИ, Факультет- Радиоэлектроника летательных аппартатов, Специальность- Инженер радиоэлектронной борьбы (1997-2001)
   - Курс Нитологии "Тестировщик ПО"
@@ -37,19 +37,19 @@
   - Семинар "Правовые основы деятельности правоохранительных, надорных и контрольных органов"
   - Семинар "Системы оптимизации управления продажами в ресторане" (Michael T. Claud)
 
-## **Портфолио** ![link](https://github.com/IvanKorolev13/Portfolio/blob/for-site/link.png)
+## **Портфолио** ![link](link.png)
 
 [Учебные программы](https://github.com/IvanKorolev13/git-2-homeworks-revert--my_vers.git)
 
 [Профиль в GitHub](https://github.com/IvanKorolev13)
 
-## **Цели и о себе** ![about me](https://github.com/IvanKorolev13/Portfolio/blob/for-site/indification.png)
+## **Цели и о себе** ![about me](indification.png)
 
   - Найти динамичную работу с возможностью горизонтального и вертикального развития
   - Путешествую по разным странам, чтобы получить новые эмоции и сравнить жизнь там и что можно применить в своей жизни (погружаюсь в среду, чтобы прочувствовать местный быт). []()
 
 ## **Контактная информация**
 
-  - ![tel](https://github.com/IvanKorolev13/Portfolio/blob/for-site/telefone.png)   +7-926-572-64-99
-  - ![email](https://github.com/IvanKorolev13/Portfolio/blob/for-site/email.png)   ikorolev13@mail.ru
-  - ![addess](https://github.com/IvanKorolev13/Portfolio/blob/for-site/building.png)   Москва, ул. Лухмановская
+  - ![tel](telefone.png)   +7-926-572-64-99
+  - ![email](email.png)   ikorolev13@mail.ru
+  - ![addess](building.png)   Москва, ул. Лухмановская
