@@ -67,6 +67,6 @@
 
 ## **Контактная информация**
 
-  - ![tel](telefone.png)   +7-926-572-64-99
+  - ![tel](telefone.png)   +7-926-572-64-99, +374-94-72-55-62
   - ![email](email.png)   ikorolev13@mail.ru
   - ![addess](building.png)   Москва, ул. Лухмановская
