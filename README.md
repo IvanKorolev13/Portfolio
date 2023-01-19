@@ -54,11 +54,11 @@
   - Семинар "Правовые основы деятельности правоохранительных, надорных и контрольных органов"
   - Семинар "Системы оптимизации управления продажами в ресторане" (Michael T. Claud)
 
-## **Портфолио** ![link](link.png)
+<!-- ## **Портфолио** ![link](link.png) -->
 
-[Учебные программы](https://github.com/IvanKorolev13/git-2-homeworks-revert--my_vers.git)
+<!-- [Учебные программы](https://github.com/IvanKorolev13/git-2-homeworks-revert--my_vers.git)
 
-[Профиль в GitHub](https://github.com/IvanKorolev13)
+[Профиль в GitHub](https://github.com/IvanKorolev13) -->
 
 ## **Цели и о себе** ![about me](indification.png)
 
