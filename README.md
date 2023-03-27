@@ -9,7 +9,7 @@
 #### Достижения
 
 - Овладел [теорией тестирования](Manual_WEB_certificate.pdf) (виды, методологии, техники тест-дизайна, артефакты тестирования).
-- Практиковал составление тестовых артефактов ([тестирование требований](Korolev_QA-55_requirments_testing.docx), чек-листы [1](Korolev_QA-55_cw1_1_checkList.xlsx) [2](Korolev_checkList.xlsx), [тест-кейсы](Korolev_QA-55_testCases.xlsx), [баг-репорты](Korolev_QA-55_bugReport.xlsx), автотесты).
+- Практиковал составление тестовых артефактов ([тестирование требований](Korolev_QA-55_requirments_testing.docx), чек-листы ([1](Korolev_QA-55_cw1_1_checkList.xlsx), [2](Korolev_checkList.xlsx)), [тест-кейсы](Korolev_QA-55_testCases.xlsx), [баг-репорты](Korolev_QA-55_bugReport.xlsx), автотесты).
 - [Курсовая работа](https://github.com/IvanKorolev13/javaqa-team-diplom.git): командный проект, поиск багов, заведение багов, составление автотестов, исправление кода по составленным багам.
 
 
