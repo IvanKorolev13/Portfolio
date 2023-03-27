@@ -56,7 +56,7 @@
 
 [Профиль в GitHub](https://github.com/IvanKorolev13) -->
 
-## **Навыки** ![about me](indification.png)
+## **Навыки** ![skills](key.png)
 
 
 - **Hard Skills**: Java (в том числе для автотестов), JS, Jira, Trello, SQL, DevTools, HTML/ CSS, Postman, Git/ GitHub.
