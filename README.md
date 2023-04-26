@@ -63,7 +63,15 @@
 ## **Навыки** ![skills](key.png)
 
 
-- **Hard Skills**: [Java](Java_certificate.pdf), JS, Selenium, [Jira](https://ikorolev13.atlassian.net/jira/software/c/projects/H2P/issues), Trello, SQL, DevTools, [HTML/ CSS](HTML_CSS_certificate.pdf), Postman, [Git/ GitHub](GIT_certificate.pdf).
+- **Hard Skills**: 
+/**
+* [Java](Java_certificate.pdf), JS, Selenium, JUnit, TestNG, RestAssured,
+* CI: GitAction, AppVeyor,
+* [Jira](https://ikorolev13.atlassian.net/jira/software/c/projects/H2P/issues), Trello,  YouTrack,
+* SQL, Postman, 
+* [Git/ GitHub](GIT_certificate.pdf), 
+* DevTools, [HTML/ CSS](HTML_CSS_certificate.pdf), .
+*/
 - **Soft Skills**: Аналитические навыки, критическое мышление, умение работать с большим объемом данных, многозадачность, работа в команде.
 
 ## **Цели и о себе** ![about me](indification.png)
